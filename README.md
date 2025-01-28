@@ -7,14 +7,15 @@ The Weather App is a web application that fetches real-time weather data from th
 
 # live:https://openweathercom.netlify.app/
 # Weather App Screenshot 📷
-![Screenshot (253)](https://github.com/user-attachments/assets/05d13990-a943-45b2-b385-bd2cc8eb4aae)
-![Screenshot (254)](https://github.com/user-attachments/assets/79c035b1-2355-4b73-8c52-7ccdc2dc33f9)
+![Screenshot (253)](https://github.com/user-attachments/assets/05d13990-a943-45b2-b385-bd2cc8eb4aae) ![Screenshot (254)](https://github.com/user-attachments/assets/79c035b1-2355-4b73-8c52-7ccdc2dc33f9)
+
 
 # Video 🎥
 
 
 https://github.com/user-attachments/assets/9ea2fb4c-15d9-4e40-a801-1ca34aea685e
-#Technologies Used
+
+# Technologies Used
 - HTML, CSS, and JavaScript for the frontend user interface.
 - OpenWeather API to fetch real-time weather data.
 
